@@ -37,8 +37,6 @@
   - Administrator mode operation for thorough cleaning
   - Disk usage visualization
 
-![Application Screenshot](https://github.com/cry4pt/Storage-Cleaner-File-Tracker/blob/main/Cleaner.png)
-
 ## 📋 Requirements
 
 - Windows 10/11

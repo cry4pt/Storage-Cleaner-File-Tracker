@@ -1,0 +1,4 @@
+psutil 
+winshell 
+PySide6 
+win10toast

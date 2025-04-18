@@ -100,7 +100,7 @@ You can modify the following constants in the code to customize the application:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/cry4pt/Storage-Cleaner-File-Tracker/blob/main/LICENCE) file for details.
 
 ## 👥 Contributing
 

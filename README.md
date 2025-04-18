@@ -37,7 +37,7 @@
   - Administrator mode operation for thorough cleaning
   - Disk usage visualization
 
-![Application Screenshot](path/to/screenshot.png)
+![Application Screenshot](https://github.com/cry4pt/Storage-Cleaner-File-Tracker/blob/main/Cleaner.png)
 
 ## 📋 Requirements
 

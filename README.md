@@ -114,6 +114,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📬 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [cry4pt@gmail.com](mailto:cry4pt@gmail.com)
 
-Project Link: [https://github.com/yourusername/storage-cleaner-tracker](https://github.com/yourusername/storage-cleaner-tracker)
+Project Link: [https://github.com/cry4pt/Storage-Cleaner-File-Tracker/](https://github.com/cry4pt/Storage-Cleaner-File-Tracker/)

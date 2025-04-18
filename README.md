@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Storage Cleaner Banner](path/to/banner-image.png)
+![Storage Cleaner Banner](https://github.com/cry4pt/Storage-Cleaner-File-Tracker/blob/main/Cleaner.png)
 
 **A powerful Windows utility to clean unnecessary files and track storage changes**
 

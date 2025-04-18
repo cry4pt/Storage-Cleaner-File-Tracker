@@ -53,8 +53,8 @@
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/storage-cleaner-tracker.git
-   cd storage-cleaner-tracker
+   git clone https://github.com/cry4pt/Storage-Cleaner-File-Tracker.git
+   cd Storage-Cleaner-File-Tracker
    ```
 
 2. Install required packages:
@@ -64,7 +64,7 @@
 
 3. Run the application:
    ```
-   python storage_app.py
+   python Cry4pt.py
    ```
 
 ## 💻 Usage
